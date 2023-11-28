@@ -10,7 +10,7 @@ function PenroseSnowflakeSketch(p5) {
 
     // Parameters that the user can modify
     let startLength = 460.0;
-    let theta = p5.TWO_PI / 6; // Adjusted for p5 instance mode
+    let theta = p5.TWO_PI / 10; // Adjusted for p5 instance mode
     let generations = 5; // Number of generations 1-6
     let rules = {
       W: "YF++ZF----XF[-YF----WF]++",

@@ -8,3 +8,4 @@ pnpm start
 ```
 
 
+![penrose](./penrose.png)
